@@ -1,5 +1,4 @@
-**Как добавить своё?
-ctahok edited this page 21 seconds ago · 1 revision**
+**Как добавить своё?**
 
 После редактирования сделайте **Pull request** пожалуйста!
 <!--stackedit_data:
