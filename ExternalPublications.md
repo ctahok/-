@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ExternalPublications</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
 <body class="stackedit">
   <div class="stackedit__html"><h1 id="«вилла-петролеа---ii»-яркая-страница-истории-баку">«Вилла Петролеа - II»: яркая страница истории Баку</h1>
 <p>27 Декабря, 2012 в 15:24  ~ 10 минут на чтение  17132<br>
